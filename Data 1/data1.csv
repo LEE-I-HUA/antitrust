@@ -85,6 +85,7 @@ a1,"Coca-Cola Co. v. Vivian Ice, Light & Water Co.",Supreme Court of Louisiana,"
 a1,Washington Cranberry Growers Ass'n v. Moore,"Supreme Court of Washington, Department Two",5-Nov-21,No. 16418,1108
 a1,Griffin v. Palatine Ins. Co.,Court of Appeals of Texas,"March 8, 1922, Decided",No. 187-3232.,1116
 a1,Overland Publishing Co. v. Union Lithograph Co.,"Court of Appeal of California, First Appellate District, Division Two","April 18, 1922, Decided",Civ. No. 4127,1122
+a1,"Federal Baseball Club, Inc. v. National League of Professional Baseball Clubs",Supreme Court of the United States,"Argued April 19, 1922. ; May 29, 1922, Decided",No. 204.,1130
 a1,Federal Trade Com. v. P. Lorillard Co.,"District Court, S.D. New York",3-Oct-22,No Number in Original,1136
 a1,Columbus Packing Co. v. State,Supreme Court of Ohio,"December 29, 1922, Decided",No. 17445,1147
 a1,People v. Apostolos,Supreme Court of Colorado,"March 5, 1923, Decided","No. 10,289, No. 10,290.",1153
@@ -98,7 +99,6 @@ a1,Mission v. Richards,Court of Appeals of Texas,"June 10, 1925, Decided",No. 73
 a1,McConnon & Co. v. Ralston,Court of Appeals of Texas,"June 18, 1925, Decided",No. 3098,1217
 a1,Gano v. Delmas,"Supreme Court of Mississippi, Division B","October 19, 1925, Decided",No. 25035.,1220
 a1,United States v. GE Co.,Supreme Court of the United States,"October 13, 1926, Argued ; November 23, 1926, Decided",No. 113,1227
-a1,"Federal Baseball Club, Inc. v. National League of Professional Baseball Clubs",Supreme Court of the United States,"Argued April 19, 1922. ; May 29, 1922, Decided",No. 204.,1130
 a2,Paterson Parchment Paper Co. v. Story Parchment Co.,"Circuit Court of Appeals, First Circuit",23-Jan-30,No. 2372,21
 a2,Guiterman v. Pennsylvania R. Co.,"District Court, E.D. New York",31-Mar-31,No. 5382,30
 a2,Ploog v. Roberts Dairy Co.,Supreme Court of Nebraska,"February 11, 1932, Filed",No. 28100.,39
@@ -141,6 +141,7 @@ a2,United States Alkali Export Ass'n v. United States,Supreme Court of the Unite
 a2,Philadelphia Record Co. v. Manufacturing Photo-Engravers Ass'n,United States Court of Appeals for the Third Circuit,"March 18, 1946, Argued ; May 17, 1946, Decided",No. 9082,675
 a2,United States v. United States Gypsum Co.,United States District Court for the District of Columbia,15-Jun-46,Civil No. 8017,681
 a2,Hercules Powder Co. v. Rohm & Haas Co.,United States District Court for the District of Delaware,9-Jul-46,Civ. A. No. 301,799
+a2,"H. E. Swezey & Son Motor Transp., Inc. v. Reich Bros. Long Island Motor Freight, Inc.","Supreme Court of New York, Special Term, Suffolk County",23-Jul-46,No Number in Original,807
 a2,MacGregor v. Westinghouse Electric & Mfg. Co.,Supreme Court of the United States,"November 14, 1946, Reargued ; January 6, 1947, Decided",No. 28,811
 a2,Transparent-Wrap Machine Corp. v. Stokes & Smith Co.,Supreme Court of the United States,"January 7, 8, 1947, Argued ; February 3, 1947, Decided",No. 208,819
 a2,State ex rel. Cullitan v. Greater Cleveland Livery Owners Ass'n,"State of Ohio, Court of Common Pleas, Cuyahoga County","April 2, 1947, Decided","No. 568,635",830
@@ -152,6 +153,7 @@ a2,Mayer Bros. Poultry Farms v. Meltzer,"Supreme Court of New York, Appellate Di
 a2,"Burnham Chemical Co. v. Borax Consol., Ltd.",United States Court of Appeals for the Ninth Circuit,27-Oct-48,No. 11766,917
 a2,United States v. Yellow Cab Co.,"United States District Court for the Northern District of Illinois, Eastern Division",1-Nov-48,No. 46 C 1339,928
 a2,Ford Motor Co. v. United States,Supreme Court of the United States,"October 11, 1948, Argued ; November 15, 1948, Decided",No. 1,936
+a2,United States v. Greater Kansas City Chapter Nat'l Electrical Contractors Asso.,"United States District Court for the Western District of Missouri, Southern Division",18-Jan-49,No. 5287,951
 a2,United States v. GE,United States District Court for the District of New Jersey,19-Jan-49,Civ. A. No.  1364,956
 a2,North American Philips Co. v. Brownshield,United States District Court for the Southern District of New York,31-Jan-49,No Number in Original,1009
 a2,Rosner v. Globe Valve Corp.,"Supreme Court of New York, Appellate Division First Department",29-Mar-49,No Number in Original,1013
@@ -197,8 +199,6 @@ a2,United States v. Twentieth Century-Fox Film Corp.,"United States District Cou
 a2,Gomberg v. Midvale Co.,United States District Court for the Eastern District of Pennsylvania,30-Dec-55,"Civ. A. Nos. 20012, 20019",1740
 a2,Eastman Kodak Co. v. Home Utilities Co.,United States District Court for the District of Maryland,14-Feb-56,Civ. No. 8379,1750
 a2,United States v. Crown Zellerbach Corp.,United States District Court for the Northern District of Illinois,11-Apr-56,No. 55 C 1480,1765
-a2,United States v. Greater Kansas City Chapter Nat'l Electrical Contractors Asso.,"United States District Court for the Western District of Missouri, Southern Division",18-Jan-49,No. 5287,951
-a2,"H. E. Swezey & Son Motor Transp., Inc. v. Reich Bros. Long Island Motor Freight, Inc.","Supreme Court of New York, Special Term, Suffolk County",23-Jul-46,No Number in Original,807
 a3,United States v. Northern P. R. Co.,"United States District Court for the Western District of Washington, Northern Division",23-Jun-56,No. 2277,21
 a3,"Adams Dairy, Inc. v. Burke",Supreme Court of Missouri Division 2,9-Jul-56,No. 44965,28
 a3,United States v. Krasnov,United States District Court for the Eastern District of Pennsylvania,30-Jul-56,Civ. A. No. 11024,41
@@ -1048,6 +1048,7 @@ D:/antitrust/Data 1/testing\b1.pdf,In re Nissan Antitrust Litigation,United Stat
 D:/antitrust/Data 1/testing\b1.pdf,"Jarvis, Inc. v. American Tel. & Tel. Co.",United States District Court for the District of Columbia,7-Aug-78,Civ. A. No. 74-1674,725
 D:/antitrust/Data 1/testing\b1.pdf,"Berkey Photo, Inc. v. Eastman Kodak Co.",United States District Court for the Southern District of New York,8-Aug-78,No. 73 Civ. 424(MEF),731
 D:/antitrust/Data 1/testing\b1.pdf,ILC Peripherals Leasing Corp. v. International Business Machines Corp.,United States District Court for the Northern District of California,11-Aug-78,"Nos. C-73-2238 SC, C-73-2239 SC",740
+D:/antitrust/Data 1/testing\b1.pdf,"Larry v. Muko, Inc. v. Southwestern Pennsylvania Bldg. & Constr. Trades Council",United States Court of Appeals for the Third Circuit,"Argued May 24, 1978 ; August 11, 1978",No. 77-2259,765
 D:/antitrust/Data 1/testing\b1.pdf,United States v. Federal Communications Com.,United States Court of Appeals for the District of Columbia Circuit,"Argued March 29, 1978 ; August 29, 1978; As Amended August 31, 1978 and January 12, 1979",No. 77-1249; No. 77-1252 ; No. 77-1253 ; No. 77-1254,779
 D:/antitrust/Data 1/testing\b1.pdf,In re Corrugated Container Antitrust Litigation,"United States District Court for the Southern District of Texas, Houston Division",6-Sep-78,M.D.L. No. 310,804
 D:/antitrust/Data 1/testing\b1.pdf,"Tober Foreign Motors, Inc. v. Reiter Oldsmobile, Inc.",Supreme Judicial Court of Massachusetts,"April 4, 1978, Argued ; September 7, 1978, Decided",No Number in Original,814
@@ -1091,7 +1092,6 @@ D:/antitrust/Data 1/testing\b1.pdf,Larry R. George Sales Co. v. Cool Attic Corp.
 D:/antitrust/Data 1/testing\b1.pdf,"Wahl v. Rexnord, Inc.",United States District Court for the District of New Jersey,25-Jan-79,Civ. A. No. 76-791,1422
 D:/antitrust/Data 1/testing\b1.pdf,"Mt. Hood Stages, Inc. v. Greyhound Corp.",United States District Court for the District of Oregon.,"January 26, 1979, Filed",Civil No. 68-374.,1456
 D:/antitrust/Data 1/testing\b1.pdf,Mishawaka v. American Electric Power Co.,"United States District Court for the Northern District of Indiana, South Bend Division",30-Jan-79,"Nos. S 74-72, S 75-210, S 77-209",1459
-D:/antitrust/Data 1/testing\b1.pdf,"Larry v. Muko, Inc. v. Southwestern Pennsylvania Bldg. & Constr. Trades Council",United States Court of Appeals for the Third Circuit,"Argued May 24, 1978 ; August 11, 1978",No. 77-2259,765
 D:/antitrust/Data 1/testing\b10.pdf,Hulse v. Hale Farms Dev. Corp.,United States District Court for the District of Connecticut,14-Jun-84,Civ. No. H-83-815 (PCD),21
 D:/antitrust/Data 1/testing\b10.pdf,"United States v. Phelps Dodge Industries, Inc.",United States District Court for the Southern District of New York,14-Jun-84,No. 78 Civ. 4479 (ADS),24
 D:/antitrust/Data 1/testing\b10.pdf,De Ment v. Abbott Capital Corp.,"United States District Court for the Northern District of Illinois, Eastern Division",15-Jun-84,No. 81 C 2887,47
@@ -1186,11 +1186,11 @@ D:/antitrust/Data 1/testing\b10.pdf,Ballo v. James S. Black Co.,"Court of Appeal
 D:/antitrust/Data 1/testing\b10.pdf,McGlinchy v. Shell Chemical Co.,United States District Court for the Northern District of California,30-Nov-84,No. C-84-0474-SC,1388
 D:/antitrust/Data 1/testing\b10.pdf,"Mizlou Television Network, Inc. v. National Broadcasting Co.",United States District Court for the District of Columbia,30-Nov-84,Civil Action No. 84-1613,1394
 D:/antitrust/Data 1/testing\b10.pdf,Walker v. U-Haul Co. of Mississippi,United States Court of Appeals for the Fifth Circuit,3-Dec-84,No. 83-4035,1405
+D:/antitrust/Data 1/testing\b10.pdf,"National Independent Theatre Exhibitors, Inc. v. Charter Financial Group, Inc.",United States Court of Appeals for the Eleventh Circuit,5-Dec-84,No. 82-8669,1410
 D:/antitrust/Data 1/testing\b10.pdf,Bender v. Southland Corp.,United States Court of Appeals for the Sixth Circuit,"September 18, 1984, Argued ; December 7, 1984",No. 83-1525,1419
 D:/antitrust/Data 1/testing\b10.pdf,General Battery Corp. v. Slaton,"Common Pleas Court of Berks County, Pennsylvania","December 12, 1984, Decided","no. 5250 Equity, 1984",1429
 D:/antitrust/Data 1/testing\b10.pdf,"National Independent Theatre Exhibitors, Inc. v. Buena Vista Distribution Co.",United States Court of Appeals for the Eleventh Circuit,12-Dec-84,No. 83-8638,1441
 D:/antitrust/Data 1/testing\b10.pdf,United States v. American Cyanamid Co.,United States District Court for the Southern District of New York,13-Dec-84,No. 60 Civ. 3857-CLB,1451
-D:/antitrust/Data 1/testing\b10.pdf,"National Independent Theatre Exhibitors, Inc. v. Charter Financial Group, Inc.",United States Court of Appeals for the Eleventh Circuit,5-Dec-84,No. 82-8669,1410
 D:/antitrust/Data 1/testing\b10.pdf,Hartsock-Flesher Candy Co. v. Wheeling Wholesale Grocery Co.,Supreme Court of Appeals of West Virginia,"December 14, 1984, Filed",No. CC939,1460
 D:/antitrust/Data 1/testing\b2.pdf,West Texas Utilities Co. v. Texas Electric Service Co.,"United States District Court for the Northern District of Texas, Dallas Division",30-Jan-79,No. CA3-76-633-F,21
 D:/antitrust/Data 1/testing\b2.pdf,Armstrong v. O'Connell,United States District Court for the Eastern District of Wisconsin,8-Feb-79,Civ. A. No. 65-C-173,49
@@ -1249,6 +1249,7 @@ D:/antitrust/Data 1/testing\b2.pdf,Fruehauf Corp. v. Federal Trade Com.,United S
 D:/antitrust/Data 1/testing\b2.pdf,"McNulty v. Borden, Inc.",United States District Court for the Eastern District of Pennsylvania,3-Jul-79,Civ. A. No. 76-3952,894
 D:/antitrust/Data 1/testing\b2.pdf,Central Iowa Power Cooperative v. Federal Energy Regulatory Com.,United States Court of Appeals for the District of Columbia Circuit,"November 30, 1978, Argued ; July 9, 1979, Decided","Nos. 77-1914, 77-1916, 77-1924",905
 D:/antitrust/Data 1/testing\b2.pdf,Security Tire & Rubber Co. v. Gates Rubber Co.,United States Court of Appeals for the Fifth Circuit,12-Jul-79,No. 77-1943,921
+D:/antitrust/Data 1/testing\b2.pdf,"Larry v. Muko, Inc. v. Southwestern Pennsylvania Bldg. & Constr. Trades Council",United States Court of Appeals for the Third Circuit,"May 24, 1978, Argued, Reargued En Banc May 17, 1979; July 20, 1979, Decided",No. 77-2259,928
 D:/antitrust/Data 1/testing\b2.pdf,"United States v. Continental Group, Inc.",United States Court of Appeals for the Third Circuit,"April 3, 1979, Argued ; July 20, 1979, Decided","Nos. 78-2328, 78-2330 to 78-2332",946
 D:/antitrust/Data 1/testing\b2.pdf,"Sherman v. British Leyland Motors, Ltd.",United States Court of Appeals for the Ninth Circuit,24-Jul-79,"Nos. 76-3172, 76-3582",970
 D:/antitrust/Data 1/testing\b2.pdf,Juneau Square Corp. v. First Wisconsin Nat'l Bank,United States District Court for the Eastern District of Wisconsin,31-Jul-79,Civ. A. No. 72-C-533,995
@@ -1268,6 +1269,7 @@ D:/antitrust/Data 1/testing\b2.pdf,"Fischer, Spuhl, Herzwurm & Associates, Inc. 
 D:/antitrust/Data 1/testing\b2.pdf,State v. Heritage Realty,Supreme Court of Vermont,"September 13, 1979, Opinion filed",No. 49-79,1152
 D:/antitrust/Data 1/testing\b2.pdf,In re Fertilizer Antitrust Litigation,United States District Court for the Eastern District of Washington.,"September 14, 1979, Filed",Master File No. MF-75-1.,1158
 D:/antitrust/Data 1/testing\b2.pdf,United States v. Tracinda Inv. Corp.,"United States District Court, Central District of California",14-Sep-79,No. CV 79-0174-AAH (SX),1168
+D:/antitrust/Data 1/testing\b2.pdf,"International Asso. of Machinists & Aerospace Workers, (""IAM"") v. Organization of Petroleum Exporting Countries (""OPEC"")","United States District Court, Central District of California",18-Sep-79,No. 78-5012-AAH (SX),1206
 D:/antitrust/Data 1/testing\b2.pdf,Photovest Corp. v. Fotomat Corp.,United States Court of Appeals for the Seventh Circuit,"January 22, 1979, Argued ; September 24, 1979, Decided","Nos. 77-1741, 77-1742",1237
 D:/antitrust/Data 1/testing\b2.pdf,"Champaign-Urbana News Agency, Inc. v. J. L. Cummins News Co.","United States District Court, Central District of Illinois",26-Sep-79,No. 76-2-167,1264
 D:/antitrust/Data 1/testing\b2.pdf,Reading Indus. v. Kennecott Copper Corp.,United States District Court for the Southern District of New York,26-Sep-79,No. 71 Civ. 1736,1276
@@ -1289,9 +1291,7 @@ D:/antitrust/Data 1/testing\b2.pdf,Arnott v. American Oil Co.,United States Cour
 D:/antitrust/Data 1/testing\b2.pdf,"Ambook Enterprises v. Time, Inc.",United States Court of Appeals for the Second Circuit,"May 31, 1979, Argued ; October 29, 1979, Decided","No. 1105, Docket 79-7184",1492
 D:/antitrust/Data 1/testing\b2.pdf,"Essential Communications Systems, Inc. v. American Tel. & Tel. Co.",United States Court of Appeals for the Third Circuit,"September 7, 1979, Argued ; October 30, 1979, Filed",No. 78-2521,1510
 D:/antitrust/Data 1/testing\b2.pdf,"Perington Wholesale, Inc. v. Burger King Corp.",United States Court of Appeals for the Tenth Circuit,"March 13, 1979, Argued ; October 31, 1979, Decided",No. 77-1877,1522
-D:/antitrust/Data 1/testing\b2.pdf,"International Asso. of Machinists & Aerospace Workers, (""IAM"") v. Organization of Petroleum Exporting Countries (""OPEC"")","United States District Court, Central District of California",18-Sep-79,No. 78-5012-AAH (SX),1206
 D:/antitrust/Data 1/testing\b2.pdf,Consolidated Farmers Mut. Ins. Co. v. Anchor Sav. Asso.,United States District Court for the District of Kansas,7-Nov-79,No. 78-4094,1536
-D:/antitrust/Data 1/testing\b2.pdf,"Larry v. Muko, Inc. v. Southwestern Pennsylvania Bldg. & Constr. Trades Council",United States Court of Appeals for the Third Circuit,"May 24, 1978, Argued, Reargued En Banc May 17, 1979; July 20, 1979, Decided",No. 77-2259,928
 D:/antitrust/Data 1/testing\b3.pdf,Bartholomew v. Virginia Chiropractors Asso.,United States Court of Appeals for the Fourth Circuit,"April 5, 1979, Argued ; November 20, 1979, Decided",Nos. 78-1734 to 78-1736,21
 D:/antitrust/Data 1/testing\b3.pdf,Hew Corp. v. Tandy Corp.,United States District Court for the District of Massachusetts,21-Nov-79,Civ. A. No. 73-2654-F,31
 D:/antitrust/Data 1/testing\b3.pdf,Associated General Contractors v. Otter Tail Power Co.,United States Court of Appeals for the Eighth Circuit,"April 18, 1979, Submitted ; November 27, 1979, Decided",No. 78-1828,38
@@ -1317,6 +1317,7 @@ D:/antitrust/Data 1/testing\b3.pdf,"Suburban Mobile Homes, Inc. v. AMFAC Communi
 D:/antitrust/Data 1/testing\b3.pdf,Younger v. Jensen,Supreme Court of California,31-Jan-80,L.A. No. 31024,277
 D:/antitrust/Data 1/testing\b3.pdf,Ampex Corp. v. Memorex Corp.,United States District Court for the Northern District of California,1-Feb-80,No. C-74-2349,300
 D:/antitrust/Data 1/testing\b3.pdf,"Snelling & Snelling, Inc. v. Dupay Enters.","Court of Appeals of Arizona, Division Two",12-Feb-80,No. 2 CA-CIV 3376,307
+D:/antitrust/Data 1/testing\b3.pdf,"Mid-Nebraska Bancshares, Inc. v. Board of Governors of Federal Reserve System",United States Court of Appeals for the District of Columbia Circuit,"October 1, 1979, Argued ; February 15, 1980, Decided",No. 78-1658,312
 D:/antitrust/Data 1/testing\b3.pdf,State v. Ginzburg,"Supreme Court of New York, Special Term, New York County",19-Feb-80,No Number in Original,322
 D:/antitrust/Data 1/testing\b3.pdf,Coldwell Banker & Co. v. Department of Insurance,"Court of Appeal of California, Second Appellate District, Division Four",21-Feb-80,Civ. No. 55067,327
 D:/antitrust/Data 1/testing\b3.pdf,"Engine Specialties, Inc. v. Bombardier, Ltd.",United States Court of Appeals for the First Circuit,"October 9, 1979, Submitted ; February 21, 1980, Decided",No. 78-1492,350
@@ -1366,6 +1367,7 @@ D:/antitrust/Data 1/testing\b3.pdf,Brown v. Cameron-Brown Co.,"United States Dis
 D:/antitrust/Data 1/testing\b3.pdf,Chirikos v. Yellow Cab Co.,"Appellate Court of Illinois, First District, First Division","June 16, 1980, Filed",No. 79-288,1067
 D:/antitrust/Data 1/testing\b3.pdf,Virginia Academy of Clinical Psychologists v. Blue Shield of Virginia,United States Court of Appeals for the Fourth Circuit,"February 5, 1980, Argued ; June 16, 1980, Decided",No. 79-1345,1077
 D:/antitrust/Data 1/testing\b3.pdf,Allied Int'l v. International Longshoremen's Ass'n,United States District Court for the District of Massachusetts,17-Jun-80,Civ. A. No. 80-584-S,1088
+D:/antitrust/Data 1/testing\b3.pdf,"Altemose Constr. Co. v. Atlantic, Cape May . . . Counties Bldg. Trades Council",United States District Court for the District of New Jersey,19-Jun-80,Civ. A. No. 79-2912,1093
 D:/antitrust/Data 1/testing\b3.pdf,In re Folding Carton Antitrust Litigation,"United States District Court for the Northern District of Illinois, Eastern Division.","June 26, 1980.",Master File No. MDL-250; Individual Action No. 78 C 102.,1106
 D:/antitrust/Data 1/testing\b3.pdf,Zenith Radio Corp. v. Matsushita Elec. Indus. Co.,United States District Court for the Eastern District of Pennsylvania,26-Jun-80,"MDL No. 189, Civ. A. No. 74-2451",1109
 D:/antitrust/Data 1/testing\b3.pdf,Feather v. United Mine Workers,United States District Court for the Western District of Pennsylvania,27-Jun-80,Civ. A. No. 76-955,1116
@@ -1390,8 +1392,6 @@ D:/antitrust/Data 1/testing\b3.pdf,"Quality Auto Body, Inc. v. Allstate Ins. Co.
 D:/antitrust/Data 1/testing\b3.pdf,"Copper Liquor, Inc. v. Adolph Coors Co.",United States Court of Appeals for the Fifth Circuit,20-Aug-80,No. 78-3209,1396
 D:/antitrust/Data 1/testing\b3.pdf,Illinois v. Sangamo Constr. Co.,"United States District Court, Central District of Illinois","August 21, 1980, Filed",Case No. 77-3004.,1409
 D:/antitrust/Data 1/testing\b3.pdf,In re Chicken Antitrust Litigation,"United States District Court for the Northern District of Georgia, Atlanta Division",22-Aug-80,Civil No. C74-2454A,1417
-D:/antitrust/Data 1/testing\b3.pdf,"Mid-Nebraska Bancshares, Inc. v. Board of Governors of Federal Reserve System",United States Court of Appeals for the District of Columbia Circuit,"October 1, 1979, Argued ; February 15, 1980, Decided",No. 78-1658,312
-D:/antitrust/Data 1/testing\b3.pdf,"Altemose Constr. Co. v. Atlantic, Cape May . . . Counties Bldg. Trades Council",United States District Court for the District of New Jersey,19-Jun-80,Civ. A. No. 79-2912,1093
 D:/antitrust/Data 1/testing\b4.pdf,"Sound, Inc. v. American Tel. & Tel. Co.",United States Court of Appeals for the Eighth Circuit,"April 15, 1980, Submitted ; August 25, 1980, Filed",No. 80-1047,21
 D:/antitrust/Data 1/testing\b4.pdf,"Associated Radio Service Co. v. Page Airways, Inc.",United States Court of Appeals for the Fifth Circuit,29-Aug-80,No. 78-1159,34
 D:/antitrust/Data 1/testing\b4.pdf,United Nuclear Corp. v. Gen. Atomic Co.,Supreme Court of New Mexico,"August 29, 1980, Decided","Nos. 11988, 12052",58
@@ -1424,6 +1424,7 @@ D:/antitrust/Data 1/testing\b4.pdf,U. S. Indus. v. Norton Co.,United States Dist
 D:/antitrust/Data 1/testing\b4.pdf,United States Indus. v. Norton Co.,United States District Court for the Northern District of New York.,23-Oct-80,No. 71-CV-359.,449
 D:/antitrust/Data 1/testing\b4.pdf,"Crouse-Hinds Co. v. Internorth, Inc.",United States District Court for the Northern District of New York,25-Oct-80,No. 80-CV-722,481
 D:/antitrust/Data 1/testing\b4.pdf,"Hawkins v. Holiday Inns, Inc.",United States Court of Appeals for the Sixth Circuit,"June 9, 1980, Argued ; November 5, 1980, Decided","Nos. 78-1244, 78-1245",485
+D:/antitrust/Data 1/testing\b4.pdf,Health Care Equalization Committee of Iowa Chiropractic Soc. v. Iowa Medical Soc.,"United States District Court for the Southern District of Iowa, Central Division",5-Nov-80,Civ. No. 79-381-A,489
 D:/antitrust/Data 1/testing\b4.pdf,"Linmont Properties, Inc. v. Newman",United States District Court for the Eastern District of New York.,"November 5, 1980.",No. 74 C 40; No. 74 C 41,523
 D:/antitrust/Data 1/testing\b4.pdf,In re Electric Weld Steel Tubing Antitrust Litigation,United States District Court for the Eastern District of Pennsylvania,6-Nov-80,MASTER FILE No. 79-4628,536
 D:/antitrust/Data 1/testing\b4.pdf,Fleming v. Federal Trade Com.,United States District Court for the District of Columbia.,"November 10, 1980, Filed",Civil Action No. 80-2328; Civil Action No. 80-2329.,544
@@ -1431,6 +1432,7 @@ D:/antitrust/Data 1/testing\b4.pdf,Auburn News Co. v. Providence Journal Co.,Uni
 D:/antitrust/Data 1/testing\b4.pdf,"United States v. Realty Multi-List, Inc.",United States Court of Appeals for the Fifth Circuit,14-Nov-80,No. 78-2481,563
 D:/antitrust/Data 1/testing\b4.pdf,North Am. Soccer League v. National Football League,United States District Court for the Southern District of New York,17-Nov-80,No. 78 Civ. 4560-CSH,609
 D:/antitrust/Data 1/testing\b4.pdf,Michigan Asso. of Psychotherapy Clinics v. Blue Cross & Blue Shield,Court of Appeals of Michigan,"May 19, 1980, Submitted ; November 19, 1980, Decided","Docket Nos. 45750, 45751",642
+D:/antitrust/Data 1/testing\b4.pdf,"California State Council of Carpenters, etc. v. Associated General Contractors, Inc.",United States Court of Appeals for the Ninth Circuit,"January 15, 1980, Argued and Submitted ; November 20, 1980, Decided",No. 77-2323,654
 D:/antitrust/Data 1/testing\b4.pdf,Matanuska Maid v. State,Supreme Court of Alaska,21-Nov-80,"Nos. 4640, 4641",675
 D:/antitrust/Data 1/testing\b4.pdf,In re Folding Carton Antitrust Litigation,"United States District Court for the Northern District of Illinois, Eastern Division",4-Dec-80,MDL No. 250,694
 D:/antitrust/Data 1/testing\b4.pdf,Baldini v. New England Greyhound Asso.,United States District Court for the District of Massachusetts,5-Dec-80,CIVIL ACTION No. 77-1218-Z,706
@@ -1490,8 +1492,6 @@ D:/antitrust/Data 1/testing\b4.pdf,People v. Roth,Court of Appeals of New York,"
 D:/antitrust/Data 1/testing\b4.pdf,Hallie v. Chippewa Falls,"Court of Appeals of Wisconsin, District Iii",7-Apr-81,No. 80-1406,1494
 D:/antitrust/Data 1/testing\b4.pdf,Marshall v. Miller,Supreme Court of North Carolina,"April 7, 1981, Filed",No. 72,1499
 D:/antitrust/Data 1/testing\b4.pdf,"Richter Concrete Corp. v. Hilltop Basic Resources, Inc.","United States District Court for the Southern District of Ohio, Western Division",7-Apr-81,No. C-1-76-512,1509
-D:/antitrust/Data 1/testing\b4.pdf,"California State Council of Carpenters, etc. v. Associated General Contractors, Inc.",United States Court of Appeals for the Ninth Circuit,"January 15, 1980, Argued and Submitted ; November 20, 1980, Decided",No. 77-2323,654
-D:/antitrust/Data 1/testing\b4.pdf,Health Care Equalization Committee of Iowa Chiropractic Soc. v. Iowa Medical Soc.,"United States District Court for the Southern District of Iowa, Central Division",5-Nov-80,Civ. No. 79-381-A,489
 D:/antitrust/Data 1/testing\b5.pdf,Plumbers & Steamfitters Local v. Morris,United States District Court for the Eastern District of Washington,9-Apr-81,No. C-76-171,21
 D:/antitrust/Data 1/testing\b5.pdf,"Nationwide Mut. Ins. Co. v. Automotive Service Councils, Inc.",United States District Court for the District of Delaware.,"April 10, 1981.",Civil Action No. 78-323.,33
 D:/antitrust/Data 1/testing\b5.pdf,Wineland v. Marketex Int'l,"Court of Appeals of Washington, Division One",13-Apr-81,No. 8252-3-I,37
@@ -1505,6 +1505,7 @@ D:/antitrust/Data 1/testing\b5.pdf,Zenith Radio Corp. v. Matsushita Elec. Indus.
 D:/antitrust/Data 1/testing\b5.pdf,J. Truett Payne Co. v. Chrysler Motors Corp.,Supreme Court of the United States,"January 21, 1981, Argued ; May 18, 1981, Decided",No. 79-1944,226
 D:/antitrust/Data 1/testing\b5.pdf,"Cordova & Simonpietri Ins. Agency, Inc. v. Chase Manhattan Bank N.A.",United States Court of Appeals for the First Circuit,"February 5, 1981 Heard;  May 19, 1981 Decided",No. 80-1350,237
 D:/antitrust/Data 1/testing\b5.pdf,Capital Tel. Co. v. Pattersonville Tel. Co.,"Supreme Court of New York, Appellate Division, Third Department",21-May-81,No Number in Original,249
+D:/antitrust/Data 1/testing\b5.pdf,"California State Council of Carpenters, etc. v. Associated General Contractors, Inc.",United States Court of Appeals for the Ninth Circuit,22-May-81,No. 77-2323,251
 D:/antitrust/Data 1/testing\b5.pdf,H. A. Artists & Assocs. v. Actors' Equity Ass'n,Supreme Court of the United States,"March 23, 1981, Argued ; May 26, 1981, Decided",No. 80-348,255
 D:/antitrust/Data 1/testing\b5.pdf,Shea v. First Federal Sav. & Loan Asso.,Supreme Court of Connecticut,"January 9, 1981, Argued ; May 26, 1981, Decided",No Number in Original,271
 D:/antitrust/Data 1/testing\b5.pdf,Tex. Indus. v. Radcliff Materials,Supreme Court of the United States,"March 3, 1981, Argued ; May 26, 1981, Decided",No. 79-1144,288
@@ -1590,7 +1591,6 @@ D:/antitrust/Data 1/testing\b5.pdf,Arizona Downs v. Arizona Horsemen's Found.,Su
 D:/antitrust/Data 1/testing\b5.pdf,"North Carolina ex rel. Edminsten v. P. I. A. Asheville, Inc.","United States District Court for the Western District of North Carolina, Asheville Division.","December 9, 1981.",No. A-C-80-29.,1617
 D:/antitrust/Data 1/testing\b5.pdf,Rosebrough Monument Co. v. Memorial Park Cemetery Asso.,United States Court of Appeals for the Eighth Circuit,"June 16, 1981, Submitted ; December 9, 1981, Decided",No. 80-1963,1627
 D:/antitrust/Data 1/testing\b5.pdf,"Huron Valley Hospital, Inc. v. Pontiac",United States Court of Appeals for the Sixth Circuit,"December 17, 1980, Argued ; December 11, 1981, Decided",No. 79-1265,1646
-D:/antitrust/Data 1/testing\b5.pdf,"California State Council of Carpenters, etc. v. Associated General Contractors, Inc.",United States Court of Appeals for the Ninth Circuit,22-May-81,No. 77-2323,251
 D:/antitrust/Data 1/testing\b5.pdf,"United States v. Studiengesellschaft Kohle, m.b.H",United States Court of Appeals for the District of Columbia Circuit,"May 7, 1980, Argued ; December 11, 1981, Decided",No. 79-1634,1653
 D:/antitrust/Data 1/testing\b6.pdf,Ronwin v. State Bar of Arizona,United States Court of Appeals for the Ninth Circuit,"April 16, 1981, Argued and Submitted ; December 14, 1981",No. 80-5004,21
 D:/antitrust/Data 1/testing\b6.pdf,"Gilbuilt Homes, Inc. v. Continental Homes of New England, etc.",United States Court of Appeals for the First Circuit,"September 10, 1981, Submitted ; December 16, 1981, Decided",No. 81-1200,38
@@ -1602,6 +1602,7 @@ D:/antitrust/Data 1/testing\b6.pdf,Bruno v. Superior Court,"Court of Appeal of C
 D:/antitrust/Data 1/testing\b6.pdf,"J.T. Gibbons, Inc. v. Crawford Fitting Co.",United States District Court for the Eastern District of Louisiana,23-Dec-81,Civ. A. No. 79-1127,87
 D:/antitrust/Data 1/testing\b6.pdf,"Bradley Auto Wash Sales, Inc. v. BP Oil, Inc.",United States District Court for the District of Massachusetts,29-Dec-81,CIVIL ACTION No. 77-3598-F,118
 D:/antitrust/Data 1/testing\b6.pdf,"Howell Industries, Inc. v. Sharon Steel Corp.","United States District Court for the Eastern District of Michigan, Southern Division",31-Dec-81,Civ. A. No. 75-70319,125
+D:/antitrust/Data 1/testing\b6.pdf,"Metropolitan Government of Nashville & Davidson County v. Ashland Oil, Inc.","United States District Court for the Middle District of Tennessee, Nashville Division",5-Jan-82,No. 81-3515,136
 D:/antitrust/Data 1/testing\b6.pdf,"Bartleys Town & Country Shops, Inc. v. Dillingham Corp.",United States District Court for the District of Hawaii,6-Jan-82,Civ. No. 79-0600,142
 D:/antitrust/Data 1/testing\b6.pdf,"Turf Paradise, Inc. v. Arizona Downs",United States Court of Appeals for the Ninth Circuit,"August 12, 1981, Argued and Submitted ; January 7, 1982, Decided",No. 80-5185,166
 D:/antitrust/Data 1/testing\b6.pdf,"Galardo v. AMP, Inc.",United States District Court for the Northern District of California.,"January 8, 1982.",No. C 79-3079 TEH.,179
@@ -1611,6 +1612,7 @@ D:/antitrust/Data 1/testing\b6.pdf,Fleming v. FTC,United States Court of Appeals
 D:/antitrust/Data 1/testing\b6.pdf,Nuttall v. Dowell,"Court of Appeals of Washington, Division Two",15-Jan-82,No. 5388-II,206
 D:/antitrust/Data 1/testing\b6.pdf,Hallie v. Chippewa Falls,Supreme Court of Wisconsin,"November 30, 1981, Argued ; January 18, 1982, Decided",No. 80-1406,220
 D:/antitrust/Data 1/testing\b6.pdf,"Shop & Save Food Markets, Inc. v. Pneumo Corp.",United States Court of Appeals for the Second Circuit,"October 9, 1981, Argued ; January 20, 1982, Decided","Nos. 80-9053, 20 -- August Term, 1981",227
+D:/antitrust/Data 1/testing\b6.pdf,"Larry V. Muko, Inc. v. Southwestern Pennsylvania Bldg. & Constr. Trades Council",United States Court of Appeals for the Third Circuit,"October 26, 1981, Argued ; January 25, 1982, Decided",Nos. 81-1696 to 81-1698,233
 D:/antitrust/Data 1/testing\b6.pdf,"R. C. Dick Geothermal Corp. v. Thermogenics, Inc.",United States District Court for the Northern District of California.,"January 26, 1982.",No. C-79-3814 SAW.,254
 D:/antitrust/Data 1/testing\b6.pdf,"Com-Tel, Inc. v. Du Kane Corp.",United States Court of Appeals for the Sixth Circuit,"April 17, 1981, Argued ; January 28, 1982, Decided",No. 79-3545,265
 D:/antitrust/Data 1/testing\b6.pdf,Central Chemical Corp. v. Agrico Chemical Co.,United States District Court for the District of Maryland,29-Jan-82,Civ. No. W-76-974,277
@@ -1629,6 +1631,7 @@ D:/antitrust/Data 1/testing\b6.pdf,Borden v. FTC,United States Court of Appeals 
 D:/antitrust/Data 1/testing\b6.pdf,Whittaker Corp. v. Edgar,"United States District Court for the Northern District of Illinois, Eastern Division",25-Feb-82,No. 82 CR 443,518
 D:/antitrust/Data 1/testing\b6.pdf,In re Chicken Antitrust Litig. Am. Poultry,United States Court of Appeals for the Fifth Circuit.,1-Mar-82,No.  80-7808,538
 D:/antitrust/Data 1/testing\b6.pdf,Council of North Atlantic Shipping Assos. v. Federal Maritime Com.,United States Court of Appeals for the District of Columbia Circuit,"September 30, 1981, Argued ; March 2, 1982, Decided",No. 78-1776,553
+D:/antitrust/Data 1/testing\b6.pdf,"Phil Tolkan Datsun, Inc. v. Greater Milwaukee Datsun Dealers' Advertising Asso.",United States Court of Appeals for the Seventh Circuit,"November 4, 1981, Argued ; March 2, 1982, Decided",No. 81-1403,577
 D:/antitrust/Data 1/testing\b6.pdf,United States v. National Asso. of Broadcasters,United States District Court for the District of Columbia,"March 3, 1982, Decided ; March 3, 1982, FILED",Civil Action No. 79-1549,588
 D:/antitrust/Data 1/testing\b6.pdf,Consol. Dairy Prods. Co. v. Bar-T Ranch Dairy,Supreme Court of Washington,4-Mar-82,No. 47828-7,612
 D:/antitrust/Data 1/testing\b6.pdf,Kirkwood v. Union Electric Co.,United States Court of Appeals for the Eighth Circuit,"November 10, 1981, Submitted ; March 4, 1982, Decided",No. 81-1521,622
@@ -1646,6 +1649,7 @@ D:/antitrust/Data 1/testing\b6.pdf,Kypta v. McDonald's Corp.,United States Court
 D:/antitrust/Data 1/testing\b6.pdf,"Forro Precision, Inc. v. IBM",United States Court of Appeals for the Ninth Circuit,"May 12, 1980, Argued ; April 5, 1982, Decided","Nos. 78-1455, 78-1755",811
 D:/antitrust/Data 1/testing\b6.pdf,"Southway Theatres, Inc. v. Georgia Theatre Co.",United States Court of Appeals for the Fifth Circuit.,5-Apr-82,No. 80-7672,829
 D:/antitrust/Data 1/testing\b6.pdf,"United States v. Southern Motor Carriers Rate Conference, Inc.",United States Court of Appeals for the Fifth Circuit.,5-Apr-82,No. 79-3741,848
+D:/antitrust/Data 1/testing\b6.pdf,Mid-America Regional Bargaining Asso. v. Will County Carpenters Dist. Council,United States Court of Appeals for the Seventh Circuit,"October 2, 1981, Argued ; April 13, 1982, Decided",No. 81-1442,866
 D:/antitrust/Data 1/testing\b6.pdf,McDonald v. Johnson & Johnson,"United States District Court for the District of Minnesota, Fourth Division",14-Apr-82,Civ. No. 4-79-189,886
 D:/antitrust/Data 1/testing\b6.pdf,United States v. Baltimore & O. R.,United States District Court for the District of Columbia,15-Apr-82,Criminal No. 81-396,960
 D:/antitrust/Data 1/testing\b6.pdf,"Clipper Exxpress v. Rocky Mountain Motor Tariff Bureau, Inc.",United States Court of Appeals for the Ninth Circuit,"April 19, 1982, Decided",No. 78-3684,975
@@ -1688,10 +1692,6 @@ D:/antitrust/Data 1/testing\b6.pdf,Ariz. v. Maricopa County Medical Soc.,Supreme
 D:/antitrust/Data 1/testing\b6.pdf,Blue Shield of Va. v. McCready,Supreme Court of the United States,"March 24, 1982, Argued ; June 21, 1982, Decided",No. 81-225,1564
 D:/antitrust/Data 1/testing\b6.pdf,"McNulty v. Borden, Inc.",United States District Court for the Eastern District of Pennsylvania,21-Jun-82,Civ. A. No. 76-3952,1585
 D:/antitrust/Data 1/testing\b6.pdf,Carlson Mach. Tools v. American Tool,United States Court of Appeals for the Fifth Circuit,23-Jun-82,No. 81-2462,1594
-D:/antitrust/Data 1/testing\b6.pdf,"Larry V. Muko, Inc. v. Southwestern Pennsylvania Bldg. & Constr. Trades Council",United States Court of Appeals for the Third Circuit,"October 26, 1981, Argued ; January 25, 1982, Decided",Nos. 81-1696 to 81-1698,233
-D:/antitrust/Data 1/testing\b6.pdf,"Metropolitan Government of Nashville & Davidson County v. Ashland Oil, Inc.","United States District Court for the Middle District of Tennessee, Nashville Division",5-Jan-82,No. 81-3515,136
-D:/antitrust/Data 1/testing\b6.pdf,Mid-America Regional Bargaining Asso. v. Will County Carpenters Dist. Council,United States Court of Appeals for the Seventh Circuit,"October 2, 1981, Argued ; April 13, 1982, Decided",No. 81-1442,866
-D:/antitrust/Data 1/testing\b6.pdf,"Phil Tolkan Datsun, Inc. v. Greater Milwaukee Datsun Dealers' Advertising Asso.",United States Court of Appeals for the Seventh Circuit,"November 4, 1981, Argued ; March 2, 1982, Decided",No. 81-1403,577
 D:/antitrust/Data 1/testing\b7.pdf,"Vespa of America Corp. v. Bajaj Auto, Ltd.",United States District Court for the Northern District of California,23-Jun-82,No. C 80-0881 SW,21
 D:/antitrust/Data 1/testing\b7.pdf,American Institute of Chemical Engineers v. Reber-Friel Co.,United States Court of Appeals for the Second Circuit,"March 31, 1982, Argued ; June 28, 1982, Decided","Nos. 81-7695, 928 -- August Term, 1981",31
 D:/antitrust/Data 1/testing\b7.pdf,Union Labor Life Ins. Co. v. Pireno,Supreme Court of the United States,"April 27, 1982, Argued ; June 28, 1982, Decided",No. 81-389,49
@@ -1725,6 +1725,7 @@ D:/antitrust/Data 1/testing\b7.pdf,"Invictus Records, Inc. v. American Broadcast
 D:/antitrust/Data 1/testing\b7.pdf,"RCM Supply Co. v. Hunter Douglas, Inc.",United States Court of Appeals for the Fourth Circuit,"February 3, 1982, Argued ; September 7, 1982",No. 81-1662,489
 D:/antitrust/Data 1/testing\b7.pdf,OLYMPIC DISTRIBS. v. PERKINS CO.,United States District Court for the Northern District of Illinois Eastern Division,14-Sep-82,No. 80 C 1602,500
 D:/antitrust/Data 1/testing\b7.pdf,"Ricky Smith Pontiac, Inc. v. Subaru of New England, Inc.","Appeals Court of Massachusetts, Norfolk","May 14, 1982, Argued ; September 14, 1982, Decided",No Number in Original,520
+D:/antitrust/Data 1/testing\b7.pdf,"Limeco, Inc. v. Division of Lime of Mississippi Dep't of Agriculture & Commerce","United States District Court for the Northern District of Mississippi, Greenville Division",15-Sep-82,No. GC 81-162-WK-O,542
 D:/antitrust/Data 1/testing\b7.pdf,"Anchorage v. Hitachi Cable, Ltd.",United States District Court for the District of Alaska,16-Sep-82,No. A 81-347 Civ.,549
 D:/antitrust/Data 1/testing\b7.pdf,"Tenneco, Inc. v. Ftc",United States Court of Appeals for the Second Circuit,"May 20, 1982, Argued ; September 16, 1982, Decided","Docket No. 81-4225; No. 1220 -- August Term, 1981",564
 D:/antitrust/Data 1/testing\b7.pdf,In re Corrugated Container Antitrust Litigation,"United States District Court for the Southern District of Texas, Houston Division",17-Sep-82,No. M.D.L. 310,584
@@ -1791,7 +1792,6 @@ D:/antitrust/Data 1/testing\b7.pdf,"Laurence J. Gordon, Inc. v. Brandt, Inc.",Un
 D:/antitrust/Data 1/testing\b7.pdf,"Joyce Beverages of New York, Inc. v. Royal Crown Cola Co.",United States District Court for the Southern District of New York,18-Jan-83,No. 82 Civ. 8485(MP),1639
 D:/antitrust/Data 1/testing\b7.pdf,"Double H Plastics, Inc. v. Sonoco Products Co.",United States District Court for the Eastern District of Pennsylvania,21-Jan-83,C.A. No. 82-1904,1649
 D:/antitrust/Data 1/testing\b7.pdf,"Glen Eden Hospital, Inc. v. Blue Cross & Blue Shield","United States District Court for the Eastern District of Michigan, Southern Division",21-Jan-83,Civil Action No. 80-72117,1663
-D:/antitrust/Data 1/testing\b7.pdf,"Limeco, Inc. v. Division of Lime of Mississippi Dep't of Agriculture & Commerce","United States District Court for the Northern District of Mississippi, Greenville Division",15-Sep-82,No. GC 81-162-WK-O,542
 D:/antitrust/Data 1/testing\b8.pdf,"Level I Sportswear, Inc. v. Chaikin",United States District Court for the Southern District of New York.,25-Jan-83,No. 81 Civ. 7407.,21
 D:/antitrust/Data 1/testing\b8.pdf,Barry Wright Corp. v. Pacific Scientific Corp.,United States District Court for the District of Massachusetts,28-Jan-83,Civil Action No. 78-485-S,30
 D:/antitrust/Data 1/testing\b8.pdf,General Business Systems v. North American Philips Corp.,United States Court of Appeals for the Ninth Circuit,"July 12, 1982, Argued and Submitted ; January 28, 1983, Decided","No. 80-4566, No. 81-4386, No. 81-4387, No. 81-4388, No. 81-4389 No. 81-4390, No. 81-4391",39
@@ -1996,6 +1996,7 @@ D:/antitrust/Data 1/testing\c1.pdf,"Link v. Mercedes-Benz of N. Am., Inc.",Unite
 D:/antitrust/Data 1/testing\c1.pdf,United States v. Central State Bank,"United States District Court for the Western District of Michigan, Southern Division","August 14, 1985, Decided",File No. G82-72 CA,38
 D:/antitrust/Data 1/testing\c1.pdf,"Quinn v. Kent General Hospital, Inc.",United States District Court for the District of Delaware,16-Aug-85,Civil Action No. 84-509 CMW,63
 D:/antitrust/Data 1/testing\c1.pdf,Seaboard Supply Co. v. Congoleum Corp.,United States Court of Appeals for the Third Circuit,"April 29, 1985, Argued ; August 16, 1985, Decided",No. 84-5630,88
+D:/antitrust/Data 1/testing\c1.pdf,Woodbury Daily Times Co. v. Los Angeles Times-Washington Post News Service,United States District Court for the District of New Jersey,16-Aug-85,Civil Action No. 84-4057,99
 D:/antitrust/Data 1/testing\c1.pdf,Lieberman v. FTC,United States Court of Appeals for the Second Circuit,"August 20, 1985, Decided",No. 85-6023,110
 D:/antitrust/Data 1/testing\c1.pdf,State v. Coca Cola Bottling Co. of Southwest,"Court of Appeals of Texas, Fourth District, San Antonio",21-Aug-85,No. 04-85-00032-CV,121
 D:/antitrust/Data 1/testing\c1.pdf,Alaska Teamsters Local 959 v. Atlantic Richfield Co.,United States District Court for the District of Alaska,"August 22, 1985, Filed","Nos. A83-171 CIV, A83-172 CIV, A83-173 CIV, A84-322 CIV",128
@@ -2039,9 +2040,11 @@ D:/antitrust/Data 1/testing\c1.pdf,Central & Southern Motor Freight Tariff Asso.
 D:/antitrust/Data 1/testing\c1.pdf,"Jayco Systems, Inc. v. Savin Business Machines Corp.",United States Court of Appeals for the Fifth Circuit,29-Nov-85,No. 84-1677,595
 D:/antitrust/Data 1/testing\c1.pdf,"Royal Service, Inc. v. Goody Products, Inc.",United States District Court for the Eastern District of California,"December 3, 1985, Decided and Filed",Civil No. S-83-644 MLS,613
 D:/antitrust/Data 1/testing\c1.pdf,New York Airlines v. Dukes County,United States District Court for the District of Massachusetts,4-Dec-85,C.A. No. 85-2342-W,628
+D:/antitrust/Data 1/testing\c1.pdf,"International Television Productions, Ltd. v. Twentieth Century-Fox Television Div. of Twentieth Century-Fox Film Corp.",United States District Court for the Southern District of New York,5-Dec-85,No. 84 Civ. 8795 (GLG),649
 D:/antitrust/Data 1/testing\c1.pdf,"Midwest Communications, Inc. v. Minnesota Twins, Inc.",United States Court of Appeals for the Eighth Circuit,"February 15, 1985, Submitted ; December 12, 1985, Decided",No. 84-5065,660
 D:/antitrust/Data 1/testing\c1.pdf,Gregory Mktg. Corp. v. Wakefern Food Corp.,"Superior Court of New Jersey, Law Division, Essex County","December 16, 1985, Decided",No. L 027598-85,674
 D:/antitrust/Data 1/testing\c1.pdf,Loctite Corp. v. Ultraseal Ltd.,United States Court of Appeals for the Federal Circuit,17-Dec-85,"Nos. 84-1687, 84-1737",685
+D:/antitrust/Data 1/testing\c1.pdf,"Limeco, Inc. v. Division of Lime of Mississippi Dep't of Agriculture & Commerce",United States Court of Appeals for the Fifth Circuit,18-Dec-85,No. 85-4107,709
 D:/antitrust/Data 1/testing\c1.pdf,Stepp v. Ford Motor Credit Co.,United States District Court for the Eastern District of Wisconsin,18-Dec-85,No. 80-C-776,712
 D:/antitrust/Data 1/testing\c1.pdf,"Savage v. Waste Management, Inc.","United States District Court for the District of South Carolina, Charleston Division",19-Dec-85,No. 2:82-3263-1,726
 D:/antitrust/Data 1/testing\c1.pdf,Assam Drug Co. v. Miller Brewing Co.,"United States District Court for the District of South Dakota, Southern Division",23-Dec-85,Civ No. 84-4189,735
@@ -2082,16 +2085,13 @@ D:/antitrust/Data 1/testing\c1.pdf,"Ball Memorial Hosp., Inc. v. Mutual Hosp. In
 D:/antitrust/Data 1/testing\c1.pdf,"Southern Pines Chrysler-Plymouth, Inc. v. Chrysler Corp.","United States District Court for the Middle District of North Carolina, Durham Division","March 5, 1986, Decided and Filed",Civil Action No. M-83-122,1149
 D:/antitrust/Data 1/testing\c1.pdf,Sonitrol of Fresno v. American Tel. & Tel. Co.,United States District Court for the District of Columbia,6-Mar-86,Civil Action No. 83-2324,1155
 D:/antitrust/Data 1/testing\c1.pdf,United States v. Sargent Elec. Co.,United States Court of Appeals for the Third Circuit,"December 2, 1985, Argued ; March 14, 1986","Nos. 85-1262, 85-1263, 85-1264, 85-1265",1167
+D:/antitrust/Data 1/testing\c1.pdf,"Association of Independent Television Stations, Inc. v. College Football Asso.",United States District Court for the Western District of Oklahoma,"March 20, 1986, Decided ; March 20, 1986, Filed","Civil No. 84-2283-JB, Consolidated with Civil No. 84-2367-JB",1188
 D:/antitrust/Data 1/testing\c1.pdf,State of California v. Levi Strauss & Co.,Supreme Court of California,20-Mar-86,S.F. No. 24699,1212
 D:/antitrust/Data 1/testing\c1.pdf,"Donahue v. Pendleton Woolen Mills, Inc.",United States District Court for the Southern District of New York,21-Mar-86,No. 84 Civ. 7149(RJW),1238
 D:/antitrust/Data 1/testing\c1.pdf,Neumann v. Reinforced Earth Co.,United States Court of Appeals for the District of Columbia Circuit,"May 24, 1985, Argued ; March 25, 1986",No. 84-5532,1263
 D:/antitrust/Data 1/testing\c1.pdf,"Central Ambulance Service, Inc. v. Dallas","United States District Court for the Northern District of Texas, Dallas Division",26-Mar-86,No. CA3-84-1819-F,1271
 D:/antitrust/Data 1/testing\c1.pdf,Gregory Marketing Corp. v. Wakefern Food Corp.,United States Court of Appeals for the Third Circuit,"December 5, 1985, Argued ; March 26, 1986",No. 85-5206,1281
-D:/antitrust/Data 1/testing\c1.pdf,"Limeco, Inc. v. Division of Lime of Mississippi Dep't of Agriculture & Commerce",United States Court of Appeals for the Fifth Circuit,18-Dec-85,No. 85-4107,709
-D:/antitrust/Data 1/testing\c1.pdf,Woodbury Daily Times Co. v. Los Angeles Times-Washington Post News Service,United States District Court for the District of New Jersey,16-Aug-85,Civil Action No. 84-4057,99
 D:/antitrust/Data 1/testing\c1.pdf,Matsushita Elec. Indus. Co. v. Zenith Radio Corp.,Supreme Court of the United States,"November 12, 1985, Argued ; March 26, 1986, Decided",No. 83-2004,1291
-D:/antitrust/Data 1/testing\c1.pdf,"Association of Independent Television Stations, Inc. v. College Football Asso.",United States District Court for the Western District of Oklahoma,"March 20, 1986, Decided ; March 20, 1986, Filed","Civil No. 84-2283-JB, Consolidated with Civil No. 84-2367-JB",1188
-D:/antitrust/Data 1/testing\c1.pdf,"International Television Productions, Ltd. v. Twentieth Century-Fox Television Div. of Twentieth Century-Fox Film Corp.",United States District Court for the Southern District of New York,5-Dec-85,No. 84 Civ. 8795 (GLG),649
 D:/antitrust/Data 1/testing\c10.pdf,"Belcher Oil Co. v. Florida Fuels, Inc.",United States District Court for the Southern District of Florida,"November 6, 1990, Decided ; November 6, 1990, Filed",No. 89-0509-CIV,21
 D:/antitrust/Data 1/testing\c10.pdf,"Dibidale of Louisiana, Inc. v. American Bank & Trust Co.",United States Court of Appeals for the Fifth Circuit,6-Nov-90,"Nos. 89-3601, 90-3400",28
 D:/antitrust/Data 1/testing\c10.pdf,Nurse Midwifery Ass'n v. Hibbett,United States Court of Appeals for the Sixth Circuit,"November 29, 1989, Argued ; November 6, 1990, Decided ; November 6, 1990, Filed","Nos. 88-5842, 89-5491",40
@@ -2195,6 +2195,7 @@ D:/antitrust/Data 1/testing\c10.pdf,Irvin Indus. v. Goodyear Aerospace Corp.,Uni
 D:/antitrust/Data 1/testing\c2.pdf,SUMMERWOOD CORP. v. CADO SYS. CORP.,United States District Court for the Eastern District of Pennsylvania,26-Mar-86,No. 85-0827,21
 D:/antitrust/Data 1/testing\c2.pdf,Deflecta-Shield Corp. v. Kar-Rite Corp.,United States District Court for the Northern District of Illinois Eastern Division,27-Mar-86,No. 85 C 5743,28
 D:/antitrust/Data 1/testing\c2.pdf,"Acme Refrigeration of Baton Rouge, Inc. v. Whirlpool Corp.",United States Court of Appeals for the Fifth Circuit,28-Mar-86,No. 85-4043,39
+D:/antitrust/Data 1/testing\c2.pdf,In re Coordinated Pretrial Proceedings in Petroleum Products Antitrust Litigation,Temporary Emergency Court of Appeals,"December 12, 1985, Argued ; March 31, 1986, Decided","Nos. 9-87, 9-93, 9-94",45
 D:/antitrust/Data 1/testing\c2.pdf,Interface Group v. Massachusetts Port Auth.,United States District Court for the District of Massachusetts,31-Mar-86,Civil Action No. 84-4065-C,57
 D:/antitrust/Data 1/testing\c2.pdf,Kern-Tulare Water Dist. v. Bakersfield,United States District Court for the Eastern District of California,31-Mar-86,No. CV-F-84-324 REC,75
 D:/antitrust/Data 1/testing\c2.pdf,Wright v. Southern Mono Hospital Dist.,United States District Court for the Eastern District of California,1-Apr-86,No. CIV.S-83-543 RAR,90
@@ -2224,11 +2225,13 @@ D:/antitrust/Data 1/testing\c2.pdf,"Great Escape, Inc. v. Union City Body Co.",U
 D:/antitrust/Data 1/testing\c2.pdf,"Executive Town & Country Services, Inc. v. Atlanta",United States Court of Appeals for the Eleventh Circuit,23-May-86,"Nos. 85-8396, 85-8444",411
 D:/antitrust/Data 1/testing\c2.pdf,"Reazin v. Blue Cross & Blue Shield, Inc.",United States District Court for the District of Kansas,23-May-86,No. 85-6027-K,422
 D:/antitrust/Data 1/testing\c2.pdf,Karel v. Kroner,"United States District Court for the Northern District of Illinois, Eastern Division",27-May-86,No. 84 C 6591,468
+D:/antitrust/Data 1/testing\c2.pdf,"IMPERIAL CONSTR. MGMT. CORP. v. LABORERS INTL. UNION OF NORTH AMERICA, LOCAL 96",United States District Court for the Northern District of Illinois Eastern Division,28-May-86,No. 85 C 2390,475
 D:/antitrust/Data 1/testing\c2.pdf,"International Wood Processors v. Power Dry, Inc.",United States Court of Appeals for the Fourth Circuit,"June 4, 1985 ; May 30, 1986","Nos. 84-2003, 84-2023, 84-2024, 85-1057, 85-1110, 85-1111",480
 D:/antitrust/Data 1/testing\c2.pdf,FTC v. Indiana Federation of Dentists,Supreme Court of the United States,"March 25, 1986, Argued ; June 2, 1986, Decided",No. 84-1809,495
 D:/antitrust/Data 1/testing\c2.pdf,"Rothery Storage & Van Co. v. Atlas Van Lines, Inc.",United States Court of Appeals for the District of Columbia Circuit,"October 16, 1985, Argued ; June 3, 1986",No. 84-5845,510
 D:/antitrust/Data 1/testing\c2.pdf,"Mercy-Peninsula Ambulance, Inc. v. County of San Mateo",United States Court of Appeals for the Ninth Circuit,10-Jun-86,No. 85-1548,536
 D:/antitrust/Data 1/testing\c2.pdf,"Laidlaw Acquisition Corp. v. Mayflower Group, Inc.","United States District Court for the Southern District of Indiana, Indianapolis Division","June 11, 1986, Filed",No. IP 86-602-C,541
+D:/antitrust/Data 1/testing\c2.pdf,"Carib Aviation & Marine Consultants, Ltd. v. Mitsubishi Aircraft International, Inc.","United States District Court for the Southern District of Florida, Miami Division","June 12, 1986, Decided ; June 12, 1986, Filed",No. 80-964-CIV,552
 D:/antitrust/Data 1/testing\c2.pdf,Catlin v. Washington Energy Co.,United States Court of Appeals for the Ninth Circuit,"March 5, 1986, Argued and Submitted ; June 13, 1986",No. 85-3570,559
 D:/antitrust/Data 1/testing\c2.pdf,Los Angeles Memorial Coliseum Comm'n v. National Football League,United States Court of Appeals for the Ninth Circuit,"October 5, 1984, Argued -- San Francisco, California, November 8, 1984, Submitted ; June 16, 1986","Nos. 83-5907, 83-5908, 83-5909",570
 D:/antitrust/Data 1/testing\c2.pdf,"American Rockwool, Inc. v. Owens-Corning Fiberglas Corp.","United States District Court for the Eastern District of North Carolina, Wilson Division","June 17, 1986, Decided; June 18, 1986, Filed",No. 83-39-CIV-8,597
@@ -2288,9 +2291,6 @@ D:/antitrust/Data 1/testing\c2.pdf,"Consul, Ltd. v. Transco Energy Co.",United S
 D:/antitrust/Data 1/testing\c2.pdf,"Alliance Shippers, Inc. v. Southern Pacific Transp. Co.",United States District Court for the Central District of California,"November 17, 1986, Decided ; November 17, 1986, Filed",Civil Action No. 86 3837 TJH,1332
 D:/antitrust/Data 1/testing\c2.pdf,Johnson v. Soundview Apartments Housing Dev. Fund Co.,United States District Court for the Southern District of New York,"November 17, 1986, Decided ; November 17, 1986, Filed",No. 81 Civ. 4803 (JES),1339
 D:/antitrust/Data 1/testing\c2.pdf,"Illinois Corporate Travel, Inc. v. American Airlines, Inc.",United States Court of Appeals for the Seventh Circuit,"September 16, 1986, Argued ; November 19, 1986, Decided",No. 86-1201,1345
-D:/antitrust/Data 1/testing\c2.pdf,"IMPERIAL CONSTR. MGMT. CORP. v. LABORERS INTL. UNION OF NORTH AMERICA, LOCAL 96",United States District Court for the Northern District of Illinois Eastern Division,28-May-86,No. 85 C 2390,475
-D:/antitrust/Data 1/testing\c2.pdf,"Carib Aviation & Marine Consultants, Ltd. v. Mitsubishi Aircraft International, Inc.","United States District Court for the Southern District of Florida, Miami Division","June 12, 1986, Decided ; June 12, 1986, Filed",No. 80-964-CIV,552
-D:/antitrust/Data 1/testing\c2.pdf,In re Coordinated Pretrial Proceedings in Petroleum Products Antitrust Litigation,Temporary Emergency Court of Appeals,"December 12, 1985, Argued ; March 31, 1986, Decided","Nos. 9-87, 9-93, 9-94",45
 D:/antitrust/Data 1/testing\c2.pdf,Auwood v. Harry Brandt Booking Office,United States District Court for the District of Connecticut,"November 21, 1986, Decided ; November 21, 1986, Filed",Civil No. N-79-144 (PCD),1354
 D:/antitrust/Data 1/testing\c3.pdf,Fishman v. Estate of Wirtz,United States Court of Appeals for the Seventh Circuit,"February 24, 1986, Argued ; November 21, 1986, Decided","Nos. 85-1453, 85-1545",21
 D:/antitrust/Data 1/testing\c3.pdf,Checker Taxi Co. v. National Production Workers Union,"United States District Court for the Northern District of Illinois, Eastern Division",25-Nov-86,No. 80 C 6573,79
